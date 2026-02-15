@@ -1,4 +1,4 @@
-# data-engineering-zoomcamp-2026
+# Data Engineering Zoomcamp 2026
 This repository contains my homework solutions, notes, and code for **Data Engineering Zoomcamp 2026**.
 The purpose of this repo is to document my learning progress and practice core data engineering concepts and tools.
 
